@@ -1,0 +1,38 @@
+body{
+    background-color: white;
+}
+.smallbox{
+    text-align: center;
+    padding: 15px 15px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-top: 40px;
+    font-family:Segoe UI, Tahoma, Geneva, Verdana, 'sans-serif';
+}
+.box{
+    padding: 10px 5px;
+    border: 2px solid black;
+}
+.search{
+    font-size: 50px;
+    font-family:Segoe UI, Tahoma, Geneva, Verdana, 'sans-serif';
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 5px;
+    width: 700px;
+    height: 80px;
+    margin: auto;
+}
+.upload{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 100px;
+    height: 150px;
+}
+.btn1{
+    border-radius: 5px;
+    width: 60px;
+    height: 30px;
+    border: 1px solid black;
+    margin-top: 60px;
+}
